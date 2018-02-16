@@ -1,3 +1,16 @@
+![postrock1](https://et1a1nen.github.com/thriftbox/images/postrock1.png)
+
+> Erik, [16.02.18 07:20]: 
+> ну, любой построк звучит как саундтрек)
+
+> Алексей Шориков, [16.02.18 07:20]: 
+> ...к моей жизни
+
+> Алексей Шориков, [16.02.18 07:20]: 
+> =))
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/et1a1nen/thriftbox/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
